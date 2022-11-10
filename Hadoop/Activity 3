@@ -1,0 +1,1020 @@
+job_1630762621517_0006
+
+
+2021-09-04 13:49:03,526 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:03,546 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:03,591 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:03,604 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:03,645 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:03,662 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:03,712 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:03,727 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:03,799 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:03,814 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:03,876 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:03,894 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:03,955 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:03,969 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:04,013 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:04,026 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:04,089 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:04,114 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:04,182 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:04,196 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:04,241 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:04,253 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:04,301 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 13:49:04,314 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 13:49:04,359 [main] WARN  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Encountered Warning ACCESSING_NON_EXISTENT_FIELD 2 time(s).
+2021-09-04 13:49:04,359 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Success!
+2021-09-04 13:49:04,402 [main] INFO  org.apache.pig.Main - Pig script completed in 2 minutes, 18 seconds and 17 milliseconds (138017 ms)
+oot@9e190129e9b4: /root@9e190129e9b4:/# hdfs dfs -cat /user/root/inputs/dialougues/part-r-00000
+cat: `/user/root/inputs/dialougues/part-r-00000': No such file or directory
+oot@9e190129e9b4: /root@9e190129e9b4:/# hdfs dfs -cat /user/root/inputs/dialougues/part-r-00000at /user/root/inputs/dialougues/part-r-00000
+LUKE	253
+HAN	152
+THREEPIO	119
+BEN	76
+LEIA	57
+VADER	41
+RED LEADER	36
+BIGGS	34
+TARKIN	28
+OWEN	25
+TROOPER	19
+GOLD LEADER	14
+WEDGE	14
+OFFICER	11
+RED TEN	7
+GOLD FIVE	7
+AUNT BERU	6
+DEATH STAR INTERCOM VOICE	6
+INTERCOM VOICE	6
+FIRST TROOPER	6
+BEN'S VOICE	6
+DODONNA	6
+GREEDO	6
+JABBA	6
+MOTTI	4
+HUMAN	4
+TAGGE	4
+SECOND TROOPER	3
+MASSASSI INTERCOM VOICE	3
+BARTENDER	3
+VOICE	3
+COMMANDER	3
+FIXER	2
+GANTRY OFFICER	2
+WILLARD	2
+CAMIE	2
+GOLD TWO	2
+IMPERIAL OFFICER	2
+CHIEF	2
+DEAK	1
+TECHNICIAN	1
+OFFICER CASS	1
+RED ELEVEN	1
+BASE VOICE	1
+RED SEVEN	1
+ASTRO-OFFICER	1
+FIRST OFFICER	1
+REBEL OFFICER	1
+RED NINE	1
+CREATURE	1
+WINGMAN	1
+TROOPER VOICE	1
+PORKINS	1
+SECOND OFFICER	1
+BERU	1
+CAPTAIN	1
+WOMAN	1
+CONTROL OFFICER	1
+RED TEN'S VOICE	1
+VOICE OVER DEATH STAR INTERCOM	1
+WINGMAN'S VOICE	1
+RED NINE'S VOICE	1
+RED LEADER'S VOICE	1
+MAN'S VOICE	1
+HAN'S VOICE	1
+LUKE'S VOICE	1
+CHIEF PILOT	1
+oot@9e190129e9b4: /root@9e190129e9b4:/# hdfs dfs -mv hdfs:///user/root/inputs/dialogues /tmp
+oot@9e190129e9b4: /root@9e190129e9b4:/# docker        cd /tmp
+oot@9e190129e9b4: /tmproot@9e190129e9b4:/tmp# ls
+hadoop-root                      hadoop-root-secondarynamenode.pid                                           jetty-0_0_0_0-9868-secondary-_-any-2082435480942590807  jetty-localhost-40535-datanode-_-any-1608926411260146772
+hadoop-root-datanode.pid         hadoop-yarn-root                                                            jetty-0_0_0_0-9868-secondary-_-any-2668976347555781336  jetty-localhost-40893-datanode-_-any-8896890261581554644
+hadoop-root-historyserver.pid    hsperfdata_root                                                             jetty-0_0_0_0-9868-secondary-_-any-268568512431502860   jetty-localhost-45829-datanode-_-any-2896503250326927032
+hadoop-root-namenode.pid         jetty-0_0_0_0-19888-hadoop-yarn-common-3_3_1_jar-_-any-5327529552995579764  jetty-0_0_0_0-9870-hdfs-_-any-3271144743892820501       root
+hadoop-root-nodemanager.pid      jetty-0_0_0_0-8042-hadoop-yarn-common-3_3_1_jar-_-any-1609967822689405472   jetty-0_0_0_0-9870-hdfs-_-any-5181228370012708588
+hadoop-root-resourcemanager.pid  jetty-0_0_0_0-8088-hadoop-yarn-common-3_3_1_jar-_-any-3752493298605327624   jetty-0_0_0_0-9870-hdfs-_-any-8080845638154754296
+oot@9e190129e9b4: /tmproot@9e190129e9b4:/tmp# cd dialougesg@ues
+bash: cd: dialogues: No such file or directory
+oot@9e190129e9b4: /tmproot@9e190129e9b4:/tmp# cd dialogueslscd /tmp@hdfs dfs -mv hdfs:///user/root/inputs/dialogues /tmpcat /user/root/inputs/dialogues/part-r-00000@ugues/part-r-00000
+oot@9e190129e9b4: /tmproot@9e190129e9b4:/tmp# pig dialouges_count.pigvim dialouges_count.pigpig dialouges_count.pig
+2021-09-04 14:32:18,326 INFO pig.ExecTypeProvider: Trying ExecType : LOCAL
+2021-09-04 14:32:18,338 INFO pig.ExecTypeProvider: Trying ExecType : MAPREDUCE
+2021-09-04 14:32:18,339 INFO pig.ExecTypeProvider: Picked MAPREDUCE as the ExecType
+2021-09-04 14:32:18,473 [main] INFO  org.apache.pig.Main - Apache Pig version 0.17.0 (r1797386) compiled Jun 02 2017, 15:41:58
+2021-09-04 14:32:18,474 [main] INFO  org.apache.pig.Main - Logging error messages to: /tmp/pig_1630765938459.log
+2021-09-04 14:32:19,304 [main] ERROR org.apache.pig.Main - ERROR 2997: Encountered IOException. File dialouges_count.pig does not exist
+Details at logfile: /tmp/pig_1630765938459.log
+2021-09-04 14:32:19,373 [main] INFO  org.apache.pig.Main - Pig script completed in 1 second and 166 milliseconds (1166 ms)
+oot@9e190129e9b4: /tmproot@9e190129e9b4:/tmp# cd /
+oot@9e190129e9b4: /root@9e190129e9b4:/# cd /pig dialouges_count.pigg dialouges_count.pig
+2021-09-04 14:33:00,008 INFO pig.ExecTypeProvider: Trying ExecType : LOCAL
+2021-09-04 14:33:00,024 INFO pig.ExecTypeProvider: Trying ExecType : MAPREDUCE
+2021-09-04 14:33:00,024 INFO pig.ExecTypeProvider: Picked MAPREDUCE as the ExecType
+2021-09-04 14:33:00,283 [main] INFO  org.apache.pig.Main - Apache Pig version 0.17.0 (r1797386) compiled Jun 02 2017, 15:41:58
+2021-09-04 14:33:00,283 [main] INFO  org.apache.pig.Main - Logging error messages to: //pig_1630765980262.log
+2021-09-04 14:33:01,083 [main] INFO  org.apache.pig.impl.util.Utils - Default bootup file /root/.pigbootup not found
+2021-09-04 14:33:01,266 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.job.tracker is deprecated. Instead, use mapreduce.jobtracker.address
+2021-09-04 14:33:01,266 [main] INFO  org.apache.pig.backend.hadoop.executionengine.HExecutionEngine - Connecting to hadoop file system at: hdfs://9e190129e9b4:9000
+2021-09-04 14:33:02,419 [main] INFO  org.apache.pig.PigServer - Pig Script ID for the session: PIG-dialouges_count.pig-50be7e2a-eada-4aec-8e88-8ada9b91c0f2
+2021-09-04 14:33:02,419 [main] WARN  org.apache.pig.PigServer - ATS is disabled since yarn.timeline-service.enabled set to false
+2021-09-04 14:33:04,727 [main] WARN  org.apache.pig.newplan.BaseOperatorPlan - Encountered Warning IMPLICIT_CAST_TO_LONG 1 time(s).
+2021-09-04 14:33:04,748 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.textoutputformat.separator is deprecated. Instead, use mapreduce.output.textoutputformat.separator
+2021-09-04 14:33:04,903 [main] INFO  org.apache.pig.tools.pigstats.ScriptState - Pig features used in the script: GROUP_BY,ORDER_BY,RANK,FILTER
+2021-09-04 14:33:05,039 [main] INFO  org.apache.pig.data.SchemaTupleBackend - Key [pig.schematuple] was not set... will not generate code.
+2021-09-04 14:33:05,217 [main] INFO  org.apache.pig.newplan.logical.optimizer.LogicalPlanOptimizer - {RULES_ENABLED=[AddForEach, ColumnMapKeyPrune, ConstantCalculator, GroupByConstParallelSetter, LimitOptimizer, LoadTypeCastInserter, MergeFilter, MergeForEach, NestedLimitOptimizer, PartitionFilterOptimizer, PredicatePushdownOptimizer, PushDownForEachFlatten, PushUpFilter, SplitFilter, StreamTypeCastInserter]}
+2021-09-04 14:33:05,327 [main] INFO  org.apache.pig.impl.util.SpillableMemoryManager - Selected heap (PS Old Gen) of size 699400192 to monitor. collectionUsageThreshold = 489580128, usageThreshold = 489580128
+2021-09-04 14:33:05,528 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MRCompiler - File concatenation threshold: 100 optimistic? false
+2021-09-04 14:33:05,635 [main] INFO  org.apache.pig.backend.hadoop.executionengine.util.CombinerOptimizerUtil - Choosing to move algebraic foreach to combiner
+2021-09-04 14:33:05,685 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.SecondaryKeyOptimizerMR - Using Secondary Key Optimization for MapReduce node scope-35
+2021-09-04 14:33:05,726 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MultiQueryOptimizer - MR plan size before optimization: 4
+2021-09-04 14:33:05,726 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MultiQueryOptimizer - MR plan size after optimization: 4
+2021-09-04 14:33:05,991 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:33:06,664 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2021-09-04 14:33:06,717 [main] INFO  org.apache.pig.tools.pigstats.mapreduce.MRScriptState - Pig script settings are added to the job
+2021-09-04 14:33:06,739 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.job.reduce.markreset.buffer.percent is deprecated. Instead, use mapreduce.reduce.markreset.buffer.percent
+2021-09-04 14:33:06,739 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - mapred.job.reduce.markreset.buffer.percent is not set, set to default 0.3
+2021-09-04 14:33:06,754 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2021-09-04 14:33:06,763 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - This job cannot be converted run in-process
+2021-09-04 14:33:06,816 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.submit.replication is deprecated. Instead, use mapreduce.client.submit.file.replication
+2021-09-04 14:33:07,800 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/pig-0.17.0-core-h2.jar to DistributedCache through /tmp/temp80520292/tmp-1841710113/pig-0.17.0-core-h2.jar
+2021-09-04 14:33:07,903 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/automaton-1.11-8.jar to DistributedCache through /tmp/temp80520292/tmp1915827270/automaton-1.11-8.jar
+2021-09-04 14:33:08,038 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/antlr-runtime-3.4.jar to DistributedCache through /tmp/temp80520292/tmp1830527092/antlr-runtime-3.4.jar
+2021-09-04 14:33:08,158 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/joda-time-2.9.3.jar to DistributedCache through /tmp/temp80520292/tmp-2039182314/joda-time-2.9.3.jar
+2021-09-04 14:33:08,228 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting up single store job
+2021-09-04 14:33:08,255 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Key [pig.schematuple] is false, will not generate code.
+2021-09-04 14:33:08,255 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Starting process to move generated code to distributed cacche
+2021-09-04 14:33:08,262 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Setting key [pig.schematuple.classes] with classes to deserialize []
+2021-09-04 14:33:08,417 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 1 map-reduce job(s) waiting for submission.
+2021-09-04 14:33:08,446 [JobControl] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:33:08,488 [JobControl] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id
+2021-09-04 14:33:08,830 [JobControl] INFO  org.apache.hadoop.mapreduce.JobResourceUploader - Disabling Erasure Coding for path: /tmp/hadoop-yarn/staging/root/.staging/job_1630762621517_0007
+2021-09-04 14:33:08,863 [JobControl] WARN  org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+2021-09-04 14:33:08,941 [JobControl] INFO  org.apache.pig.builtin.PigStorage - Using PigTextInputFormat
+2021-09-04 14:33:08,962 [JobControl] INFO  org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+2021-09-04 14:33:08,964 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths to process : 1
+2021-09-04 14:33:09,055 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths (combined) to process : 1
+2021-09-04 14:33:10,056 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+2021-09-04 14:33:10,334 [JobControl] INFO  org.apache.hadoop.conf.Configuration.deprecation - yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2021-09-04 14:33:10,599 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_1630762621517_0007
+2021-09-04 14:33:10,599 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+2021-09-04 14:33:10,856 [JobControl] INFO  org.apache.hadoop.mapred.YARNRunner - Job jar is not present. Not adding any jar to the list of resources.
+2021-09-04 14:33:11,014 [JobControl] INFO  org.apache.hadoop.conf.Configuration - resource-types.xml not found
+2021-09-04 14:33:11,028 [JobControl] INFO  org.apache.hadoop.yarn.util.resource.ResourceUtils - Unable to find 'resource-types.xml'.
+2021-09-04 14:33:11,408 [JobControl] INFO  org.apache.hadoop.yarn.client.api.impl.YarnClientImpl - Submitted application application_1630762621517_0007
+2021-09-04 14:33:11,545 [JobControl] INFO  org.apache.hadoop.mapreduce.Job - The url to track the job: http://9e190129e9b4:8088/proxy/application_1630762621517_0007/
+2021-09-04 14:33:11,555 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - HadoopJobId: job_1630762621517_0007
+2021-09-04 14:33:11,555 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Processing aliases inputDialouges
+2021-09-04 14:33:11,555 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - detailed locations: M: inputDialouges[1,17],inputDialouges[-1,-1] C:  R: 
+2021-09-04 14:33:11,587 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 0% complete
+2021-09-04 14:33:11,587 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0007]
+2021-09-04 14:33:35,906 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 12% complete
+2021-09-04 14:33:35,906 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0007]
+2021-09-04 14:33:41,920 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 25% complete
+2021-09-04 14:33:41,945 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:33:41,973 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:33:42,508 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:33:42,543 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:33:42,603 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.reduce.tasks is deprecated. Instead, use mapreduce.job.reduces
+2021-09-04 14:33:42,619 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:33:42,634 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:33:42,831 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:33:42,857 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:33:43,106 [main] INFO  org.apache.pig.tools.pigstats.mapreduce.MRScriptState - Pig script settings are added to the job
+2021-09-04 14:33:43,110 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - mapred.job.reduce.markreset.buffer.percent is not set, set to default 0.3
+2021-09-04 14:33:43,138 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Reduce phase detected, estimating # of required reducers.
+2021-09-04 14:33:43,141 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Using reducer estimator: org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.InputSizeReducerEstimator
+2021-09-04 14:33:43,243 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.InputSizeReducerEstimator - BytesPerReducer=1000000000 maxReducers=999 totalInputFileSize=79683
+2021-09-04 14:33:43,244 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting Parallelism to 1
+2021-09-04 14:33:43,244 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - This job cannot be converted run in-process
+2021-09-04 14:33:43,487 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/pig-0.17.0-core-h2.jar to DistributedCache through /tmp/temp80520292/tmp-1590744868/pig-0.17.0-core-h2.jar
+2021-09-04 14:33:43,560 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/automaton-1.11-8.jar to DistributedCache through /tmp/temp80520292/tmp-1446962848/automaton-1.11-8.jar
+2021-09-04 14:33:43,701 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/antlr-runtime-3.4.jar to DistributedCache through /tmp/temp80520292/tmp-1140273007/antlr-runtime-3.4.jar
+2021-09-04 14:33:44,260 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/joda-time-2.9.3.jar to DistributedCache through /tmp/temp80520292/tmp-1073487213/joda-time-2.9.3.jar
+2021-09-04 14:33:44,263 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting up single store job
+2021-09-04 14:33:44,266 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Key [pig.schematuple] is false, will not generate code.
+2021-09-04 14:33:44,267 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Starting process to move generated code to distributed cacche
+2021-09-04 14:33:44,271 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Setting key [pig.schematuple.classes] with classes to deserialize []
+2021-09-04 14:33:44,416 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 1 map-reduce job(s) waiting for submission.
+2021-09-04 14:33:44,432 [JobControl] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:33:44,456 [JobControl] INFO  org.apache.hadoop.conf.Configuration.deprecation - yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2021-09-04 14:33:44,489 [JobControl] INFO  org.apache.hadoop.mapreduce.JobResourceUploader - Disabling Erasure Coding for path: /tmp/hadoop-yarn/staging/root/.staging/job_1630762621517_0008
+2021-09-04 14:33:44,499 [JobControl] WARN  org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+2021-09-04 14:33:44,543 [JobControl] INFO  org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+2021-09-04 14:33:44,543 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths to process : 1
+2021-09-04 14:33:44,544 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths (combined) to process : 1
+2021-09-04 14:33:44,688 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+2021-09-04 14:33:45,248 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_1630762621517_0008
+2021-09-04 14:33:45,248 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+2021-09-04 14:33:45,262 [JobControl] INFO  org.apache.hadoop.mapred.YARNRunner - Job jar is not present. Not adding any jar to the list of resources.
+2021-09-04 14:33:45,356 [JobControl] INFO  org.apache.hadoop.yarn.client.api.impl.YarnClientImpl - Submitted application application_1630762621517_0008
+2021-09-04 14:33:45,376 [JobControl] INFO  org.apache.hadoop.mapreduce.Job - The url to track the job: http://9e190129e9b4:8088/proxy/application_1630762621517_0008/
+2021-09-04 14:33:45,379 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - HadoopJobId: job_1630762621517_0008
+2021-09-04 14:33:45,379 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Processing aliases OnlyDialouges,groupByName,names
+2021-09-04 14:33:45,379 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - detailed locations: M: OnlyDialouges[3,16],names[5,8],groupByName[4,14] C: names[5,8],groupByName[4,14] R: names[5,8]
+2021-09-04 14:34:09,599 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 37% complete
+2021-09-04 14:34:09,599 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0008]
+2021-09-04 14:34:17,617 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 50% complete
+2021-09-04 14:34:17,617 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0008]
+2021-09-04 14:34:20,635 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:34:20,673 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:34:21,004 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:34:21,046 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:34:21,135 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:34:21,153 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:34:21,237 [main] INFO  org.apache.pig.tools.pigstats.mapreduce.MRScriptState - Pig script settings are added to the job
+2021-09-04 14:34:21,237 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - mapred.job.reduce.markreset.buffer.percent is not set, set to default 0.3
+2021-09-04 14:34:21,239 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Reduce phase detected, estimating # of required reducers.
+2021-09-04 14:34:21,239 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Using reducer estimator: org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.InputSizeReducerEstimator
+2021-09-04 14:34:21,267 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.InputSizeReducerEstimator - BytesPerReducer=1000000000 maxReducers=999 totalInputFileSize=1221
+2021-09-04 14:34:21,279 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting Parallelism to 1
+2021-09-04 14:34:21,279 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - This job cannot be converted run in-process
+2021-09-04 14:34:21,376 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/pig-0.17.0-core-h2.jar to DistributedCache through /tmp/temp80520292/tmp1795161615/pig-0.17.0-core-h2.jar
+2021-09-04 14:34:21,439 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/automaton-1.11-8.jar to DistributedCache through /tmp/temp80520292/tmp-1500249115/automaton-1.11-8.jar
+2021-09-04 14:34:21,916 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/antlr-runtime-3.4.jar to DistributedCache through /tmp/temp80520292/tmp454423338/antlr-runtime-3.4.jar
+2021-09-04 14:34:22,026 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/joda-time-2.9.3.jar to DistributedCache through /tmp/temp80520292/tmp-290400234/joda-time-2.9.3.jar
+2021-09-04 14:34:22,030 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting up single store job
+2021-09-04 14:34:22,031 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Key [pig.schematuple] is false, will not generate code.
+2021-09-04 14:34:22,031 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Starting process to move generated code to distributed cacche
+2021-09-04 14:34:22,031 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Setting key [pig.schematuple.classes] with classes to deserialize []
+2021-09-04 14:34:22,111 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 1 map-reduce job(s) waiting for submission.
+2021-09-04 14:34:22,132 [JobControl] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:34:22,166 [JobControl] INFO  org.apache.hadoop.conf.Configuration.deprecation - yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2021-09-04 14:34:22,218 [JobControl] INFO  org.apache.hadoop.mapreduce.JobResourceUploader - Disabling Erasure Coding for path: /tmp/hadoop-yarn/staging/root/.staging/job_1630762621517_0009
+2021-09-04 14:34:22,229 [JobControl] WARN  org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+2021-09-04 14:34:22,271 [JobControl] INFO  org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+2021-09-04 14:34:22,271 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths to process : 1
+2021-09-04 14:34:22,271 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths (combined) to process : 1
+2021-09-04 14:34:22,369 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+2021-09-04 14:34:22,426 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_1630762621517_0009
+2021-09-04 14:34:22,426 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+2021-09-04 14:34:22,438 [JobControl] INFO  org.apache.hadoop.mapred.YARNRunner - Job jar is not present. Not adding any jar to the list of resources.
+2021-09-04 14:34:22,502 [JobControl] INFO  org.apache.hadoop.yarn.client.api.impl.YarnClientImpl - Submitted application application_1630762621517_0009
+2021-09-04 14:34:22,518 [JobControl] INFO  org.apache.hadoop.mapreduce.Job - The url to track the job: http://9e190129e9b4:8088/proxy/application_1630762621517_0009/
+2021-09-04 14:34:22,614 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - HadoopJobId: job_1630762621517_0009
+2021-09-04 14:34:22,614 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Processing aliases nameOrdered
+2021-09-04 14:34:22,614 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - detailed locations: M: nameOrdered[6,14] C:  R: 
+2021-09-04 14:34:46,704 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 62% complete
+2021-09-04 14:34:46,708 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0009]
+2021-09-04 14:34:54,729 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 75% complete
+2021-09-04 14:34:54,730 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0009]
+2021-09-04 14:34:57,742 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:34:57,760 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:34:58,297 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:34:58,319 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:34:58,377 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:34:58,390 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:34:58,432 [main] INFO  org.apache.pig.tools.pigstats.mapreduce.MRScriptState - Pig script settings are added to the job
+2021-09-04 14:34:58,432 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - mapred.job.reduce.markreset.buffer.percent is not set, set to default 0.3
+2021-09-04 14:34:58,434 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Reduce phase detected, estimating # of required reducers.
+2021-09-04 14:34:58,434 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting Parallelism to 1
+2021-09-04 14:34:58,434 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - This job cannot be converted run in-process
+2021-09-04 14:34:58,555 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/pig-0.17.0-core-h2.jar to DistributedCache through /tmp/temp80520292/tmp586020584/pig-0.17.0-core-h2.jar
+2021-09-04 14:34:58,608 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/automaton-1.11-8.jar to DistributedCache through /tmp/temp80520292/tmp-997961798/automaton-1.11-8.jar
+2021-09-04 14:34:58,874 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/antlr-runtime-3.4.jar to DistributedCache through /tmp/temp80520292/tmp-613102605/antlr-runtime-3.4.jar
+2021-09-04 14:34:58,925 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/joda-time-2.9.3.jar to DistributedCache through /tmp/temp80520292/tmp940412685/joda-time-2.9.3.jar
+2021-09-04 14:34:58,930 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting up single store job
+2021-09-04 14:34:58,936 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Key [pig.schematuple] is false, will not generate code.
+2021-09-04 14:34:58,936 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Starting process to move generated code to distributed cacche
+2021-09-04 14:34:58,937 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Setting key [pig.schematuple.classes] with classes to deserialize []
+2021-09-04 14:34:58,987 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 1 map-reduce job(s) waiting for submission.
+2021-09-04 14:34:59,001 [JobControl] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:34:59,033 [JobControl] INFO  org.apache.hadoop.conf.Configuration.deprecation - yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2021-09-04 14:34:59,065 [JobControl] INFO  org.apache.hadoop.mapreduce.JobResourceUploader - Disabling Erasure Coding for path: /tmp/hadoop-yarn/staging/root/.staging/job_1630762621517_0010
+2021-09-04 14:34:59,078 [JobControl] WARN  org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+2021-09-04 14:34:59,167 [JobControl] INFO  org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+2021-09-04 14:34:59,170 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths to process : 1
+2021-09-04 14:34:59,171 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths (combined) to process : 1
+2021-09-04 14:34:59,681 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+2021-09-04 14:34:59,739 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_1630762621517_0010
+2021-09-04 14:34:59,739 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+2021-09-04 14:34:59,752 [JobControl] INFO  org.apache.hadoop.mapred.YARNRunner - Job jar is not present. Not adding any jar to the list of resources.
+2021-09-04 14:34:59,824 [JobControl] INFO  org.apache.hadoop.yarn.client.api.impl.YarnClientImpl - Submitted application application_1630762621517_0010
+2021-09-04 14:34:59,835 [JobControl] INFO  org.apache.hadoop.mapreduce.Job - The url to track the job: http://9e190129e9b4:8088/proxy/application_1630762621517_0010/
+2021-09-04 14:34:59,835 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - HadoopJobId: job_1630762621517_0010
+2021-09-04 14:34:59,835 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Processing aliases nameOrdered
+2021-09-04 14:34:59,835 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - detailed locations: M: nameOrdered[6,14] C:  R: 
+2021-09-04 14:35:21,993 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 87% complete
+2021-09-04 14:35:21,993 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0010]
+2021-09-04 14:35:30,513 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0010]
+2021-09-04 14:35:35,552 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:35,589 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:35,779 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:35,796 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:35,841 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:35,861 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:35,913 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 100% complete
+2021-09-04 14:35:35,954 [main] INFO  org.apache.pig.tools.pigstats.mapreduce.SimplePigStats - Script Statistics: 
+
+HadoopVersion	PigVersion	UserId	StartedAt	FinishedAt	Features
+3.3.1	0.17.0	root	2021-09-04 14:33:06	2021-09-04 14:35:35	GROUP_BY,ORDER_BY,RANK,FILTER
+
+Success!
+
+Job Stats (time in seconds):
+JobId	Maps	Reduces	MaxMapTime	MinMapTime	AvgMapTime	MedianMapTime	MaxReduceTime	MinReduceTime	AvgReduceTime	MedianReducetime	Alias	Feature	Outputs
+job_1630762621517_0007	1	0	6	6	6	6	0	0	0	0	inputDialouges	MAP_ONLY	
+job_1630762621517_0008	1	1	7	7	7	7	5	5	5	5	OnlyDialouges,groupByName,names	GROUP_BY,COMBINER	
+job_1630762621517_0009	1	1	7	7	7	7	5	5	5	5	nameOrdered	SAMPLER	
+job_1630762621517_0010	1	1	5	5	5	5	6	6	6	6	nameOrdered	ORDER_BY	hdfs:///user/root/inputs/dialogues,
+
+Input(s):
+Successfully read 1012 records (68063 bytes) from: "hdfs:///user/root/inputs/episodeIV_dialouges.txt"
+
+Output(s):
+Successfully stored 67 records (862 bytes) in: "hdfs:///user/root/inputs/dialogues"
+
+Counters:
+Total records written : 67
+Total bytes written : 862
+Spillable Memory Manager spill count : 0
+Total bags proactively spilled: 0
+Total records proactively spilled: 0
+
+Job DAG:
+job_1630762621517_0007	->	job_1630762621517_0008,
+job_1630762621517_0008	->	job_1630762621517_0009,
+job_1630762621517_0009	->	job_1630762621517_0010,
+job_1630762621517_0010
+
+
+2021-09-04 14:35:35,962 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:35,974 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:36,008 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:36,024 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:36,063 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:36,078 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:36,120 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:36,127 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:36,190 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:36,199 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:36,255 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:36,270 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:36,323 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:36,339 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:36,380 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:36,394 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:36,466 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:36,492 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:36,650 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:36,702 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:36,829 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:36,858 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:36,960 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:35:36,977 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:35:37,043 [main] WARN  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Encountered Warning ACCESSING_NON_EXISTENT_FIELD 2 time(s).
+2021-09-04 14:35:37,043 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Success!
+2021-09-04 14:35:37,109 [main] INFO  org.apache.pig.Main - Pig script completed in 2 minutes, 37 seconds and 192 milliseconds (157192 ms)
+oot@9e190129e9b4: /root@9e190129e9b4:/# mkdir output
+oot@9e190129e9b4: /root@9e190129e9b4:/# mkdir outputpig dialouges_count.pigcd /pig dialouges_count.pigcd dialogueslscd /tmp@hdfs dfs -mv hdfs:///user/root/inputs/dialogues /tmp@c@p hdfs:///user/root/inputs/dialogues /tmp   output
+oot@9e190129e9b4: /root@9e190129e9b4:/# cat     vim     cd output
+oot@9e190129e9b4: /outputroot@9e190129e9b4:/output# ls
+oot@9e190129e9b4: /outputroot@9e190129e9b4:/output# lscd output@hdfs dfs -cp hdfs:///user/root/inputs/dialogues /output hdfs:///user/root/inputs/dialogues /s//@p@u@t@  /user/root/inputs/dialogues /outpututput
+put: `/user/root/inputs/dialogues': No such file or directory
+oot@9e190129e9b4: /outputroot@9e190129e9b4:/output# cd /
+oot@9e190129e9b4: /root@9e190129e9b4:/# \ cd /hdfs dfs -put /user/root/inputs/dialogues /output
+put: `/user/root/inputs/dialogues': No such file or directory
+oot@9e190129e9b4: /root@9e190129e9b4:/# cd output
+oot@9e190129e9b4: /outputroot@9e190129e9b4:/output# ls
+oot@9e190129e9b4: /outputroot@9e190129e9b4:/output# lscd output@hdfs dfs -put /user/root/inputs/dialogues /outpute@/s@/@p@a@r@t@-@r@-@0@0@0@0@0 @~~/output
+put: `/user/root/inputs/dialogues/part-r-00000': No such file or directory
+oot@9e190129e9b4: /outputroot@9e190129e9b4:/output# hdfs dfs -put /user/root/inputs/dialogues/part-r-00000 /output
+oot@9e190129e9b4: /outputroot@9e190129e9b4:/output# lscd output@hdfs dfs -put /user/root/inputs/dialogues /outputcd /hdfs dfs -put /user/root/inputs/dialogues /outputlscd output@hdfs dfs -cp hdfs:///user/root/inputs/dialogues /outputmkdir outputpig dialouges_count.pigcd /pig dialouges_count.pigcd dialoguess            cd /
+oot@9e190129e9b4: /root@9e190129e9b4:/# cd /tmp
+oot@9e190129e9b4: /tmproot@9e190129e9b4:/tmp# mkdir output
+oot@9e190129e9b4: /tmproot@9e190129e9b4:/tmp# cd /
+oot@9e190129e9b4: /root@9e190129e9b4:/# cd /mkdir outputcd /tmphdfs dfs -put /user/root/inputs/dialogues/part-r-00000 /output
+oot@9e190129e9b4: /root@9e190129e9b4:/# lscd output@hdfs dfs -put /user/root/inputs/dialogues /output
+oot@9e190129e9b4: /root@9e190129e9b4:/# cd /hdfs dfs -put /user/root/inputs/dialogues /output
+oot@9e190129e9b4: /root@9e190129e9b4:/# lscd output@hdfs dfs -cp hdfs:///user/root/inputs/dialogues /output
+oot@9e190129e9b4: /root@9e190129e9b4:/# mkdir outputpig dialouges_count.pigcd /pig dialouges_count.pigcd dialogueslscd /tmp@hdfs dfs -mv hdfs:///user/root/inputs/dialogues /tmpialogues /tmp/outputv@c@p hdfs:///user/root/inputs/dialogues /tmp/output
+oot@9e190129e9b4: /root@9e190129e9b4:/# cd /tmp/output
+oot@9e190129e9b4: /tmp/outputroot@9e190129e9b4:/tmp/output# ls
+oot@9e190129e9b4: /tmp/outputroot@9e190129e9b4:/tmp/output# ls _ -R
+.:
+oot@9e190129e9b4: /tmp/outputroot@9e190129e9b4:/tmp/output# hdfs dfs -cat /user/root/inputs/dialogues/part-r-00000
+LUKE	253
+HAN	152
+THREEPIO	119
+BEN	76
+LEIA	57
+VADER	41
+RED LEADER	36
+BIGGS	34
+TARKIN	28
+OWEN	25
+TROOPER	19
+GOLD LEADER	14
+WEDGE	14
+OFFICER	11
+RED TEN	7
+GOLD FIVE	7
+AUNT BERU	6
+DEATH STAR INTERCOM VOICE	6
+INTERCOM VOICE	6
+FIRST TROOPER	6
+BEN'S VOICE	6
+DODONNA	6
+GREEDO	6
+JABBA	6
+MOTTI	4
+HUMAN	4
+TAGGE	4
+SECOND TROOPER	3
+MASSASSI INTERCOM VOICE	3
+BARTENDER	3
+VOICE	3
+COMMANDER	3
+FIXER	2
+GANTRY OFFICER	2
+WILLARD	2
+CAMIE	2
+GOLD TWO	2
+IMPERIAL OFFICER	2
+CHIEF	2
+DEAK	1
+TECHNICIAN	1
+OFFICER CASS	1
+RED ELEVEN	1
+BASE VOICE	1
+RED SEVEN	1
+ASTRO-OFFICER	1
+FIRST OFFICER	1
+REBEL OFFICER	1
+RED NINE	1
+CREATURE	1
+WINGMAN	1
+TROOPER VOICE	1
+PORKINS	1
+SECOND OFFICER	1
+BERU	1
+CAPTAIN	1
+WOMAN	1
+CONTROL OFFICER	1
+RED TEN'S VOICE	1
+VOICE OVER DEATH STAR INTERCOM	1
+WINGMAN'S VOICE	1
+RED NINE'S VOICE	1
+RED LEADER'S VOICE	1
+MAN'S VOICE	1
+HAN'S VOICE	1
+LUKE'S VOICE	1
+CHIEF PILOT	1
+oot@9e190129e9b4: /tmp/outputroot@9e190129e9b4:/tmp/output# cd // 
+oot@9e190129e9b4: /root@9e190129e9b4:/# vim episodeV_dialouges.txt
+"episodeV_dialouges.txt" [New File]�  c~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 0,0-1All-- INSERT --0,1AllVADER   Luke. You can destroy the Emperor. He has foreseen this. It is your destiny. Join me, and we can rule the galaxy as father and son. Come with me. It's the only way.
+LUKE    Ben...Ben, please!LUKE    Ben. Leia!LUKE    Hear me! Leia!LEIA    Luke...We've got to go back.LANDO   What?LEIA    I know where Luke is.LANDO   But what about those fighter?LEIA    Chewie, just do it.LANDO   But what about Vader?LANDO   All right, all right, all right.VADER   Bring my shuttle.LANDO   (pointing out the cockpit window) Look, someone's up there.LEIA    It's Luke. Chewie, slow down. Slow down and we'll get under him. Lando, open the top hatch.LEIA    Okay. Easy, Chewie.LEIA    (into intercom) Lando?LANDO   (over intercom) Okay, let's go.LUKE    Oh, Leia.LANDO   All right, Chewie. Let's go.LEIA    I'll be back.LEIA    Star Destroyer.LANDO   All right, Chewie. Ready for light-speed.LEIA    If your people fixed the hyperdrive.LEIA    All the coordinates are set. It's now or never.LANDO   Punch it!LANDO   They told me they fixed it. I trusted them to fix it. It's not my fault!PIETT   They'll be in range of our tractor beam in moments, lord.VADER   Did your men deactivate the hyperdrive on the Millennium Falcon?PIETT   Yes, my lord.VADER   Good. Prepare the boarding party and set for your weapons for stun.PIETT   Yes, my lord.THREEPIO        Noisy brute. Why don't we just go into light-speed?THREEPIO        We can't? How would you know the hyperdrive is deactivated?THREEPIO        The city's central computer told you? Artoo-Detoo, you know better than to trust a strange computer. Ouch! Pay attention to what you're doing!VADER   Luke.LUKE    Father.VADER   Son, come with me.LUKE    (moaning) Ben, why didn't you tell me?LANDO   (into intercom) Chewie!LUKE    It's Vader.VADER   Luke...it is your destiny.LUKE    Ben, why didn't you tell me?PIETT   Alert all commands. Ready for the tractor beam.THREEPIO        Artoo, come back at once! You haven't finished with me yet! You don't know how to fix the hyperdrive. Chewbacca can do it. I'm standing here in pieces, and you're having delusions of grandeur!THREEPIO        Oh, you did it!LANDO   (into comlink) Luke, we're ready for takeoff.LUKE    (over comlink) Good luck, LandoLANDO   (into comlink) When we find Jabba the Hut and that bounty hunter, we'll contact you.LUKE    (into comlink) I'll meet you at the rendezvous point on Tatooine.LANDO   (into comlink) Princess, we'll find Han. I promise.LUKE    (into comlink) Chewie, I'll be waiting for your signal.LUKE    (into comlink) Take care, you two. May the Force be with you.LUKE    Ow!841,9-12      Bot^[  841,8-11      Bot::wq
+"episodeV_dialouges.txt" [New] 841L, 49890C written
+
+
+oot@9e190129e9b4: /root@9e190129e9b4:/# vim episodeV_dialouges.txt@I_dialouges.txt
+"episodeVI_dialouges.txt" [New File]�  c~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 0,0-1All-- INSERT --0,1AllEMPEROR (laughs)Good. Good.
+LANDO   Watch out. Squad at .06.REBEL PILOT     I'm on it, Gold Leader.WEDGE   Good shot, Red Two.LANDO   Now...come on, Han, old buddy. Don't let me down.HAN/PILOT (VO)  It's over, Commander. The Rebels have been routed. They're fleeing into the woods. We need reinforcements to continue the pursuit.CONTROL ROOM COMMANDER  Send three squads to help. Open the back door.SECOND COMMANDER        Yes, sir.HAN     Throw me another charge.VADER   You cannot hide forever, Luke.LUKE    I will not fight you.VADER   Give yourself to the dark side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong. Especially for...VADER   Sister! So...you have a twin sister. Your feelings have now betrayed her, too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the dark side, then perhaps she will.LUKE    Never-r-r!EMPEROR Good! Your hate has made you powerful. Now, fulfill your destiny and take your father's place at my side!LUKE    Never! I'll never turn to the dark side. You've failed, Your Highness. I am a Jedi, like my father before me.EMPEROR So be it...Jedi.HAN     Move! Move!ACKBAR  The shield is down! Commence attack on the Death Star's main reactor.LANDO   We're on our way. Red Group, Gold Group, all fighters follow me. (laughs) Told you they'd do it!EMPEROR If you will not be turned, you will be destroyed.EMPEROR Young fool...only now, at the end, do you understand.EMPEROR Your feeble skills are no match for the power of the dark side. You have paid the price for your lack of vision.LUKE (groans)   Father, please. Help me.EMPEROR Now, young Skywalker...you will die.WEDGE   I'm going in.LANDO   Here goes nothing.LANDO   Now lock onto the strongest power source. It should be the power generator.WEDGE   Form up. And stay alert. We could run out of space real fast.LANDO   Split up and head back to the surface. See if you can get a few of those TIE fighters to follow you.PILOT   Copy, Gold Leader.LANDO   That was too close.ACKBAR  We've got to give those fighters more time. Concentrate all fire on that Super Star Destroyer.CONTROLLER      Sir, we've lost our bridge deflector shield.PIETT   Intensify the forward batteries. I don't want anything to get through.PIETT   Intensify forward firepower!COMMANDER       It's too late!VADER (a whisper)       Luke, help me take this mask off.LURE    But you'll die.VADER   Nothing can stop that now. Just for once... let me look on you with my own eyes.ANAKIN (very weak)      Now...go, my son. Leave me.LUKE    No. You're coming with me. I can't leave you here. I've got to save you.ANAKIN  You already have, Luke. You were right about me. Tell your sister...you were right.LUKE    Father... I won't leave you.WEDGE   There it is!LANDO   All right, Wedge. Go for the power regulator on the north tower.WEDGE   Copy, Gold Leader. I'm already on my way out.ACKBAR  Move the fleet away from the Death Star.LANDO (into comlink)    Wedge, I don't think we're going to make it.WEDGE (VO)      You'll make it. Just follow me Gold Leader.LANDO (to himself)      I promised to return his ship without a scratch...I sure hope that old pirate forgives me.HAN (whispering to himself)     Lando...THREEPIO        (misinterpreting Han's reference) They did it!676,56-63     Bot^[  676,55-62     Bot::wq
+"episodeVI_dialouges.txt" [New] 676L, 43657C written
+
+
+oot@9e190129e9b4: /root@9e190129e9b4:/# hhdfs      dfs dfs -put episodeV_dialouges.txt t @.@/episodeV_dialouges.txt /user/root/inputs/
+oot@9e190129e9b4: /root@9e190129e9b4:/# hdfs dfs -put ./episodeV_dialouges.txt /user/root/inputs/@I_dialouges.txt /user/root/inputs/
+oot@9e190129e9b4: /root@9e190129e9b4:/# hdfs dfs -put ./episodeVI_dialouges.txt /user/root/inputs/_dialouges.txt /user/root/inputs/
+oot@9e190129e9b4: /root@9e190129e9b4:/# vim episodeVI_dialouges.txt_dialouges.txtcd /vim episodeV_dialouges.txtdeV@V@V@I@_@IV@V@_V_VI_dialouges.txt   pig
+"episodeIV_V_VI_dialouges.pig" [New File]�  c~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 0,0-1All-- INSERT --0,1AllnputDialouges = Load 'hdfs:///user/root/inputs/EpisodeIV_dialouges.txt' USING PigStorage('\t') AS (name: chararray, line: chararray);
+ranked = RANK inputDialouges;OnlyDialouges = FILTER ranked BY (rank_inputDialouges > 2);groupByName = GROUP OnlyDialouges BY name;names = FOREACH groupByName GENERATE $0 AS name, COUNT($1) AS no_of_lines;nameOrdered = ORDER names BY no_of_lines DESC;STORE nameOrdered INTO 'hdfs:///user/root/inputs/dialogues' USING PigStorage ('\t');7,856,475,754,433,60()598()765432104987654321039876()54()321029876543210198765432109 8765432211inputDialouges = Load 'hdfs:///user/root/inputs/EpisodeIV_dialouges.txt' USING PigStorage('\t') AS (name: chararray, line: chararray);234567891012345678920123456789301234567894012345678950123456789601234567897012' USING PigStorage('\t') AS (name: chararray, line: chararray);1' USING PigStorage('\t') AS (name: chararray, line: chararray);0' USING PigStorage('\t') AS (name: chararray, line: chararray);69' USING PigStorage('\t') AS (name: chararray, line: chararray);8' USING PigStorage('\t') AS (name: chararray, line: chararray);7' USING PigStorage('\t') AS (name: chararray, line: chararray);6' USING PigStorage('\t') AS (name: chararray, line: chararray);5' USING PigStorage('\t') AS (name: chararray, line: chararray);4' USING PigStorage('\t') AS (name: chararray, line: chararray);3' USING PigStorage('\t') AS (name: chararray, line: chararray);2' USING PigStorage('\t') AS (name: chararray, line: chararray);1' USING PigStorage('\t') AS (name: chararray, line: chararray);0' USING PigStorage('\t') AS (name: chararray, line: chararray);59' USING PigStorage('\t') AS (name: chararray, line: chararray);8' USING PigStorage('\t') AS (name: chararray, line: chararray);7' USING PigStorage('\t') AS (name: chararray, line: chararray);6' USING PigStorage('\t') AS (name: chararray, line: chararray);5' USING PigStorage('\t') AS (name: chararray, line: chararray);4' USING PigStorage('\t') AS (name: chararray, line: chararray);3' USING PigStorage('\t') AS (name: chararray, line: chararray);2' USING PigStorage('\t') AS (name: chararray, line: chararray);1' USING PigStorage('\t') AS (name: chararray, line: chararray);0' USING PigStorage('\t') AS (name: chararray, line: chararray);49^[  1,48All::qwq
+"episodeIV_V_VI_dialouges.pig" [New] 7L, 452C written
+
+
+oot@9e190129e9b4: /root@9e190129e9b4:/# vim episodeIV_V_VI_dialouges.pigim@p@i@g episodeIV_V_VI_dialouges.pig
+2021-09-04 14:53:42,353 INFO pig.ExecTypeProvider: Trying ExecType : LOCAL
+2021-09-04 14:53:42,362 INFO pig.ExecTypeProvider: Trying ExecType : MAPREDUCE
+2021-09-04 14:53:42,362 INFO pig.ExecTypeProvider: Picked MAPREDUCE as the ExecType
+2021-09-04 14:53:42,464 [main] INFO  org.apache.pig.Main - Apache Pig version 0.17.0 (r1797386) compiled Jun 02 2017, 15:41:58
+2021-09-04 14:53:42,464 [main] INFO  org.apache.pig.Main - Logging error messages to: //pig_1630767222455.log
+2021-09-04 14:53:43,015 [main] INFO  org.apache.pig.impl.util.Utils - Default bootup file /root/.pigbootup not found
+2021-09-04 14:53:43,113 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.job.tracker is deprecated. Instead, use mapreduce.jobtracker.address
+2021-09-04 14:53:43,113 [main] INFO  org.apache.pig.backend.hadoop.executionengine.HExecutionEngine - Connecting to hadoop file system at: hdfs://9e190129e9b4:9000
+2021-09-04 14:53:43,791 [main] INFO  org.apache.pig.PigServer - Pig Script ID for the session: PIG-episodeIV_V_VI_dialouges.pig-749ed82c-4f82-4a68-9bba-fe6ad4f5c6cf
+2021-09-04 14:53:43,791 [main] WARN  org.apache.pig.PigServer - ATS is disabled since yarn.timeline-service.enabled set to false
+2021-09-04 14:53:44,811 [main] WARN  org.apache.pig.newplan.BaseOperatorPlan - Encountered Warning IMPLICIT_CAST_TO_LONG 1 time(s).
+2021-09-04 14:53:44,827 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.textoutputformat.separator is deprecated. Instead, use mapreduce.output.textoutputformat.separator
+2021-09-04 14:53:44,864 [main] ERROR org.apache.pig.tools.grunt.Grunt - ERROR 6000: <file episodeIV_V_VI_dialouges.pig, line 7, column 0> Output Location Validation Failed for: 'hdfs:///user/root/inputs/dialogues More info to follow:
+Output directory hdfs://9e190129e9b4:9000/user/root/inputs/dialogues already exists
+Details at logfile: /pig_1630767222455.log
+2021-09-04 14:53:44,926 [main] INFO  org.apache.pig.Main - Pig script completed in 2 seconds and 630 milliseconds (2630 ms)
+oot@9e190129e9b4: /root@9e190129e9b4:/# pig episodeIV_V_VI_dialouges.pigvim episodeIV_V_VI_dialouges.pig
+"episodeIV_V_VI_dialouges.pig" 7L, 452C�  cinputDialouges = Load 'hdfs:///user/root/inputs/' USING PigStorage('\t') AS (name: chararray, line: chararray);
+ranked = RANK inputDialouges;
+OnlyDialouges = FILTER ranked BY (rank_inputDialouges > 2);
+groupByName = GROUP OnlyDialouges BY name;
+names = FOREACH groupByName GENERATE $0 AS name, COUNT($1) AS no_of_lines;
+nameOrdered = ORDER names BY no_of_lines DESC;
+STORE nameOrdered INTO 'hdfs:///user/root/inputs/dialogues' USING PigStorage ('\t');
+~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 1,48Alli -- INSERT --1,48All2,303,484,435,486,477,489A/dialogues' USING PigStorage ('\t');50l/dialogues' USING PigStorage ('\t');1l/dialogues' USING PigStorage ('\t');2/dialogues' USING PigStorage ('\t');1/dialogues' USING PigStorage ('\t');0/dialogues' USING PigStorage ('\t');4950Adialogues' USING PigStorage ('\t');1ldialogues' USING PigStorage ('\t');2ldialogues' USING PigStorage ('\t');3dialogues' USING PigStorage ('\t');2dialogues' USING PigStorage ('\t');1dialogues' USING PigStorage ('\t');0Vdialogues' USING PigStorage ('\t');1_dialogues' USING PigStorage ('\t');2Vdialogues' USING PigStorage ('\t');3dialogues' USING PigStorage ('\t');2dialogues' USING PigStorage ('\t');10IVdialogues' USING PigStorage ('\t');12_dialogues' USING PigStorage ('\t');3Vdialogues' USING PigStorage ('\t');4_dialogues' USING PigStorage ('\t');5Vdialogues' USING PigStorage ('\t');6Idialogues' USING PigStorage ('\t');7_dialogues' USING PigStorage ('\t');8960123456789876_s' USING PigStorage ('\t');7s' USING PigStorage ('\t');67_' USING PigStorage ('\t');8C' USING PigStorage ('\t');9l' USING PigStorage ('\t');70a' USING PigStorage ('\t');1s' USING PigStorage ('\t');2s' USING PigStorage ('\t');3' USING PigStorage ('\t');2' USING PigStorage ('\t');1' USING PigStorage ('\t');0' USING PigStorage ('\t');69' USING PigStorage ('\t');8c' USING PigStorage ('\t');9l' USING PigStorage ('\t');70a' USING PigStorage ('\t');1s' USING PigStorage ('\t');2s' USING PigStorage ('\t');3i' USING PigStorage ('\t');4f' USING PigStorage ('\t');5i' USING PigStorage ('\t');6c' USING PigStorage ('\t');7a' USING PigStorage ('\t');8t' USING PigStorage ('\t');9i' USING PigStorage ('\t');80o' USING PigStorage ('\t');1n' USING PigStorage ('\t');234567899012345[
+?25l6789100 ('\t')12('\t')34^[  7,103All::wq
+"episodeIV_V_VI_dialouges.pig" 7L, 475C written
+
+
+oot@9e190129e9b4: /root@9e190129e9b4:/# vim episodeIV_V_VI_dialouges.pigpig episodeIV_V_VI_dialouges.pig
+2021-09-04 14:54:50,896 INFO pig.ExecTypeProvider: Trying ExecType : LOCAL
+2021-09-04 14:54:50,902 INFO pig.ExecTypeProvider: Trying ExecType : MAPREDUCE
+2021-09-04 14:54:50,903 INFO pig.ExecTypeProvider: Picked MAPREDUCE as the ExecType
+2021-09-04 14:54:51,029 [main] INFO  org.apache.pig.Main - Apache Pig version 0.17.0 (r1797386) compiled Jun 02 2017, 15:41:58
+2021-09-04 14:54:51,029 [main] INFO  org.apache.pig.Main - Logging error messages to: //pig_1630767291017.log
+2021-09-04 14:54:51,498 [main] INFO  org.apache.pig.impl.util.Utils - Default bootup file /root/.pigbootup not found
+2021-09-04 14:54:51,586 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.job.tracker is deprecated. Instead, use mapreduce.jobtracker.address
+2021-09-04 14:54:51,586 [main] INFO  org.apache.pig.backend.hadoop.executionengine.HExecutionEngine - Connecting to hadoop file system at: hdfs://9e190129e9b4:9000
+2021-09-04 14:54:52,313 [main] INFO  org.apache.pig.PigServer - Pig Script ID for the session: PIG-episodeIV_V_VI_dialouges.pig-b3c2668e-c7f2-4d15-a8e5-887e9008083c
+2021-09-04 14:54:52,313 [main] WARN  org.apache.pig.PigServer - ATS is disabled since yarn.timeline-service.enabled set to false
+2021-09-04 14:54:53,341 [main] WARN  org.apache.pig.newplan.BaseOperatorPlan - Encountered Warning IMPLICIT_CAST_TO_LONG 1 time(s).
+2021-09-04 14:54:53,357 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.textoutputformat.separator is deprecated. Instead, use mapreduce.output.textoutputformat.separator
+2021-09-04 14:54:53,397 [main] INFO  org.apache.pig.tools.pigstats.ScriptState - Pig features used in the script: GROUP_BY,ORDER_BY,RANK,FILTER
+2021-09-04 14:54:53,448 [main] INFO  org.apache.pig.data.SchemaTupleBackend - Key [pig.schematuple] was not set... will not generate code.
+2021-09-04 14:54:53,539 [main] INFO  org.apache.pig.newplan.logical.optimizer.LogicalPlanOptimizer - {RULES_ENABLED=[AddForEach, ColumnMapKeyPrune, ConstantCalculator, GroupByConstParallelSetter, LimitOptimizer, LoadTypeCastInserter, MergeFilter, MergeForEach, NestedLimitOptimizer, PartitionFilterOptimizer, PredicatePushdownOptimizer, PushDownForEachFlatten, PushUpFilter, SplitFilter, StreamTypeCastInserter]}
+2021-09-04 14:54:53,588 [main] INFO  org.apache.pig.impl.util.SpillableMemoryManager - Selected heap (PS Old Gen) of size 699400192 to monitor. collectionUsageThreshold = 489580128, usageThreshold = 489580128
+2021-09-04 14:54:53,701 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MRCompiler - File concatenation threshold: 100 optimistic? false
+2021-09-04 14:54:53,767 [main] INFO  org.apache.pig.backend.hadoop.executionengine.util.CombinerOptimizerUtil - Choosing to move algebraic foreach to combiner
+2021-09-04 14:54:53,795 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.SecondaryKeyOptimizerMR - Using Secondary Key Optimization for MapReduce node scope-35
+2021-09-04 14:54:53,812 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MultiQueryOptimizer - MR plan size before optimization: 4
+2021-09-04 14:54:53,812 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MultiQueryOptimizer - MR plan size after optimization: 4
+2021-09-04 14:54:53,935 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:54:54,302 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2021-09-04 14:54:54,338 [main] INFO  org.apache.pig.tools.pigstats.mapreduce.MRScriptState - Pig script settings are added to the job
+2021-09-04 14:54:54,351 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.job.reduce.markreset.buffer.percent is deprecated. Instead, use mapreduce.reduce.markreset.buffer.percent
+2021-09-04 14:54:54,352 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - mapred.job.reduce.markreset.buffer.percent is not set, set to default 0.3
+2021-09-04 14:54:54,368 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2021-09-04 14:54:54,378 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - This job cannot be converted run in-process
+2021-09-04 14:54:54,433 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.submit.replication is deprecated. Instead, use mapreduce.client.submit.file.replication
+2021-09-04 14:54:55,089 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/pig-0.17.0-core-h2.jar to DistributedCache through /tmp/temp1398296366/tmp252490587/pig-0.17.0-core-h2.jar
+2021-09-04 14:54:55,158 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/automaton-1.11-8.jar to DistributedCache through /tmp/temp1398296366/tmp-726188303/automaton-1.11-8.jar
+2021-09-04 14:54:55,224 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/antlr-runtime-3.4.jar to DistributedCache through /tmp/temp1398296366/tmp-2109080489/antlr-runtime-3.4.jar
+2021-09-04 14:54:55,287 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/joda-time-2.9.3.jar to DistributedCache through /tmp/temp1398296366/tmp-1393398231/joda-time-2.9.3.jar
+2021-09-04 14:54:55,314 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting up single store job
+2021-09-04 14:54:55,334 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Key [pig.schematuple] is false, will not generate code.
+2021-09-04 14:54:55,334 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Starting process to move generated code to distributed cacche
+2021-09-04 14:54:55,335 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Setting key [pig.schematuple.classes] with classes to deserialize []
+2021-09-04 14:54:55,432 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 1 map-reduce job(s) waiting for submission.
+2021-09-04 14:54:55,453 [JobControl] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:54:55,493 [JobControl] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id
+2021-09-04 14:54:55,730 [JobControl] INFO  org.apache.hadoop.mapreduce.JobResourceUploader - Disabling Erasure Coding for path: /tmp/hadoop-yarn/staging/root/.staging/job_1630762621517_0011
+2021-09-04 14:54:55,759 [JobControl] WARN  org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+2021-09-04 14:54:55,819 [JobControl] INFO  org.apache.pig.builtin.PigStorage - Using PigTextInputFormat
+2021-09-04 14:54:55,907 [JobControl] INFO  org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 4
+2021-09-04 14:54:55,919 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths to process : 4
+2021-09-04 14:54:55,959 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths (combined) to process : 1
+2021-09-04 14:54:56,058 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+2021-09-04 14:54:56,175 [JobControl] INFO  org.apache.hadoop.conf.Configuration.deprecation - yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2021-09-04 14:54:56,351 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_1630762621517_0011
+2021-09-04 14:54:56,351 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+2021-09-04 14:54:56,553 [JobControl] INFO  org.apache.hadoop.mapred.YARNRunner - Job jar is not present. Not adding any jar to the list of resources.
+2021-09-04 14:54:56,674 [JobControl] INFO  org.apache.hadoop.conf.Configuration - resource-types.xml not found
+2021-09-04 14:54:56,675 [JobControl] INFO  org.apache.hadoop.yarn.util.resource.ResourceUtils - Unable to find 'resource-types.xml'.
+2021-09-04 14:54:56,803 [JobControl] INFO  org.apache.hadoop.yarn.client.api.impl.YarnClientImpl - Submitted application application_1630762621517_0011
+2021-09-04 14:54:56,855 [JobControl] INFO  org.apache.hadoop.mapreduce.Job - The url to track the job: http://9e190129e9b4:8088/proxy/application_1630762621517_0011/
+2021-09-04 14:54:56,856 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - HadoopJobId: job_1630762621517_0011
+2021-09-04 14:54:56,856 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Processing aliases inputDialouges
+2021-09-04 14:54:56,856 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - detailed locations: M: inputDialouges[1,17],inputDialouges[-1,-1] C:  R: 
+2021-09-04 14:54:56,880 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 0% complete
+2021-09-04 14:54:56,880 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0011]
+2021-09-04 14:55:14,007 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 12% complete
+2021-09-04 14:55:14,007 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0011]
+2021-09-04 14:55:17,015 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 25% complete
+2021-09-04 14:55:17,047 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:55:17,072 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:55:17,312 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:55:17,326 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:55:17,357 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.reduce.tasks is deprecated. Instead, use mapreduce.job.reduces
+2021-09-04 14:55:17,369 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:55:17,381 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:55:17,473 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:55:17,486 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:55:17,537 [main] INFO  org.apache.pig.tools.pigstats.mapreduce.MRScriptState - Pig script settings are added to the job
+2021-09-04 14:55:17,539 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - mapred.job.reduce.markreset.buffer.percent is not set, set to default 0.3
+2021-09-04 14:55:17,541 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Reduce phase detected, estimating # of required reducers.
+2021-09-04 14:55:17,546 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Using reducer estimator: org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.InputSizeReducerEstimator
+2021-09-04 14:55:17,562 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.InputSizeReducerEstimator - BytesPerReducer=1000000000 maxReducers=999 totalInputFileSize=193092
+2021-09-04 14:55:17,562 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting Parallelism to 1
+2021-09-04 14:55:17,562 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - This job cannot be converted run in-process
+2021-09-04 14:55:17,643 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/pig-0.17.0-core-h2.jar to DistributedCache through /tmp/temp1398296366/tmp1681558169/pig-0.17.0-core-h2.jar
+2021-09-04 14:55:17,690 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/automaton-1.11-8.jar to DistributedCache through /tmp/temp1398296366/tmp166526368/automaton-1.11-8.jar
+2021-09-04 14:55:17,732 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/antlr-runtime-3.4.jar to DistributedCache through /tmp/temp1398296366/tmp-16814383/antlr-runtime-3.4.jar
+2021-09-04 14:55:17,780 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/joda-time-2.9.3.jar to DistributedCache through /tmp/temp1398296366/tmp746290312/joda-time-2.9.3.jar
+2021-09-04 14:55:17,785 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting up single store job
+2021-09-04 14:55:17,788 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Key [pig.schematuple] is false, will not generate code.
+2021-09-04 14:55:17,789 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Starting process to move generated code to distributed cacche
+2021-09-04 14:55:17,789 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Setting key [pig.schematuple.classes] with classes to deserialize []
+2021-09-04 14:55:17,916 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 1 map-reduce job(s) waiting for submission.
+2021-09-04 14:55:17,929 [JobControl] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:55:17,953 [JobControl] INFO  org.apache.hadoop.conf.Configuration.deprecation - yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2021-09-04 14:55:17,985 [JobControl] INFO  org.apache.hadoop.mapreduce.JobResourceUploader - Disabling Erasure Coding for path: /tmp/hadoop-yarn/staging/root/.staging/job_1630762621517_0012
+2021-09-04 14:55:17,996 [JobControl] WARN  org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+2021-09-04 14:55:18,033 [JobControl] INFO  org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+2021-09-04 14:55:18,034 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths to process : 1
+2021-09-04 14:55:18,035 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths (combined) to process : 1
+2021-09-04 14:55:18,522 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+2021-09-04 14:55:18,618 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_1630762621517_0012
+2021-09-04 14:55:18,619 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+2021-09-04 14:55:18,637 [JobControl] INFO  org.apache.hadoop.mapred.YARNRunner - Job jar is not present. Not adding any jar to the list of resources.
+2021-09-04 14:55:18,750 [JobControl] INFO  org.apache.hadoop.yarn.client.api.impl.YarnClientImpl - Submitted application application_1630762621517_0012
+2021-09-04 14:55:18,770 [JobControl] INFO  org.apache.hadoop.mapreduce.Job - The url to track the job: http://9e190129e9b4:8088/proxy/application_1630762621517_0012/
+2021-09-04 14:55:18,770 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - HadoopJobId: job_1630762621517_0012
+2021-09-04 14:55:18,770 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Processing aliases OnlyDialouges,groupByName,names
+2021-09-04 14:55:18,771 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - detailed locations: M: OnlyDialouges[3,16],names[5,8],groupByName[4,14] C: names[5,8],groupByName[4,14] R: names[5,8]
+2021-09-04 14:55:35,937 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 37% complete
+2021-09-04 14:55:35,937 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0012]
+2021-09-04 14:55:42,969 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 50% complete
+2021-09-04 14:55:42,969 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0012]
+2021-09-04 14:55:43,979 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:55:44,000 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:55:44,163 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:55:44,174 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:55:44,240 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:55:44,266 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:55:44,327 [main] INFO  org.apache.pig.tools.pigstats.mapreduce.MRScriptState - Pig script settings are added to the job
+2021-09-04 14:55:44,328 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - mapred.job.reduce.markreset.buffer.percent is not set, set to default 0.3
+2021-09-04 14:55:44,330 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Reduce phase detected, estimating # of required reducers.
+2021-09-04 14:55:44,330 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Using reducer estimator: org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.InputSizeReducerEstimator
+2021-09-04 14:55:44,360 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.InputSizeReducerEstimator - BytesPerReducer=1000000000 maxReducers=999 totalInputFileSize=5005
+2021-09-04 14:55:44,370 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting Parallelism to 1
+2021-09-04 14:55:44,370 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - This job cannot be converted run in-process
+2021-09-04 14:55:44,544 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/pig-0.17.0-core-h2.jar to DistributedCache through /tmp/temp1398296366/tmp-188656920/pig-0.17.0-core-h2.jar
+2021-09-04 14:55:44,618 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/automaton-1.11-8.jar to DistributedCache through /tmp/temp1398296366/tmp-1056456456/automaton-1.11-8.jar
+2021-09-04 14:55:44,672 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/antlr-runtime-3.4.jar to DistributedCache through /tmp/temp1398296366/tmp1013743704/antlr-runtime-3.4.jar
+2021-09-04 14:55:44,730 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/joda-time-2.9.3.jar to DistributedCache through /tmp/temp1398296366/tmp-484033718/joda-time-2.9.3.jar
+2021-09-04 14:55:44,737 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting up single store job
+2021-09-04 14:55:44,739 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Key [pig.schematuple] is false, will not generate code.
+2021-09-04 14:55:44,739 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Starting process to move generated code to distributed cacche
+2021-09-04 14:55:44,747 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Setting key [pig.schematuple.classes] with classes to deserialize []
+2021-09-04 14:55:44,807 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 1 map-reduce job(s) waiting for submission.
+2021-09-04 14:55:44,824 [JobControl] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:55:44,845 [JobControl] INFO  org.apache.hadoop.conf.Configuration.deprecation - yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2021-09-04 14:55:44,906 [JobControl] INFO  org.apache.hadoop.mapreduce.JobResourceUploader - Disabling Erasure Coding for path: /tmp/hadoop-yarn/staging/root/.staging/job_1630762621517_0013
+2021-09-04 14:55:44,911 [JobControl] WARN  org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+2021-09-04 14:55:45,017 [JobControl] INFO  org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+2021-09-04 14:55:45,017 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths to process : 1
+2021-09-04 14:55:45,017 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths (combined) to process : 1
+2021-09-04 14:55:45,174 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+2021-09-04 14:55:45,750 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_1630762621517_0013
+2021-09-04 14:55:45,750 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+2021-09-04 14:55:45,770 [JobControl] INFO  org.apache.hadoop.mapred.YARNRunner - Job jar is not present. Not adding any jar to the list of resources.
+2021-09-04 14:55:45,837 [JobControl] INFO  org.apache.hadoop.yarn.client.api.impl.YarnClientImpl - Submitted application application_1630762621517_0013
+2021-09-04 14:55:45,855 [JobControl] INFO  org.apache.hadoop.mapreduce.Job - The url to track the job: http://9e190129e9b4:8088/proxy/application_1630762621517_0013/
+2021-09-04 14:55:45,856 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - HadoopJobId: job_1630762621517_0013
+2021-09-04 14:55:45,856 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Processing aliases nameOrdered
+2021-09-04 14:55:45,857 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - detailed locations: M: nameOrdered[6,14] C:  R: 
+2021-09-04 14:56:06,046 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 62% complete
+2021-09-04 14:56:06,046 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0013]
+2021-09-04 14:56:15,071 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 75% complete
+2021-09-04 14:56:15,072 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0013]
+2021-09-04 14:56:16,078 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:16,096 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:16,339 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:16,366 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:16,462 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:16,485 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:16,606 [main] INFO  org.apache.pig.tools.pigstats.mapreduce.MRScriptState - Pig script settings are added to the job
+2021-09-04 14:56:16,607 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - mapred.job.reduce.markreset.buffer.percent is not set, set to default 0.3
+2021-09-04 14:56:16,609 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Reduce phase detected, estimating # of required reducers.
+2021-09-04 14:56:16,609 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting Parallelism to 1
+2021-09-04 14:56:16,609 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - This job cannot be converted run in-process
+2021-09-04 14:56:17,231 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/pig-0.17.0-core-h2.jar to DistributedCache through /tmp/temp1398296366/tmp1324006579/pig-0.17.0-core-h2.jar
+2021-09-04 14:56:17,705 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/automaton-1.11-8.jar to DistributedCache through /tmp/temp1398296366/tmp-1077758533/automaton-1.11-8.jar
+2021-09-04 14:56:17,768 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/antlr-runtime-3.4.jar to DistributedCache through /tmp/temp1398296366/tmp-1950859883/antlr-runtime-3.4.jar
+2021-09-04 14:56:17,831 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Added jar file:/usr/local/pig-0.17.0/lib/joda-time-2.9.3.jar to DistributedCache through /tmp/temp1398296366/tmp1266888279/joda-time-2.9.3.jar
+2021-09-04 14:56:17,834 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler - Setting up single store job
+2021-09-04 14:56:17,837 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Key [pig.schematuple] is false, will not generate code.
+2021-09-04 14:56:17,837 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Starting process to move generated code to distributed cacche
+2021-09-04 14:56:17,838 [main] INFO  org.apache.pig.data.SchemaTupleFrontend - Setting key [pig.schematuple.classes] with classes to deserialize []
+2021-09-04 14:56:17,891 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 1 map-reduce job(s) waiting for submission.
+2021-09-04 14:56:17,906 [JobControl] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:17,931 [JobControl] INFO  org.apache.hadoop.conf.Configuration.deprecation - yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2021-09-04 14:56:17,991 [JobControl] INFO  org.apache.hadoop.mapreduce.JobResourceUploader - Disabling Erasure Coding for path: /tmp/hadoop-yarn/staging/root/.staging/job_1630762621517_0014
+2021-09-04 14:56:18,008 [JobControl] WARN  org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+2021-09-04 14:56:18,070 [JobControl] INFO  org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+2021-09-04 14:56:18,070 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths to process : 1
+2021-09-04 14:56:18,071 [JobControl] INFO  org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil - Total input paths (combined) to process : 1
+2021-09-04 14:56:18,168 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+2021-09-04 14:56:18,245 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_1630762621517_0014
+2021-09-04 14:56:18,245 [JobControl] INFO  org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+2021-09-04 14:56:18,253 [JobControl] INFO  org.apache.hadoop.mapred.YARNRunner - Job jar is not present. Not adding any jar to the list of resources.
+2021-09-04 14:56:18,410 [JobControl] INFO  org.apache.hadoop.yarn.client.api.impl.YarnClientImpl - Submitted application application_1630762621517_0014
+2021-09-04 14:56:18,433 [JobControl] INFO  org.apache.hadoop.mapreduce.Job - The url to track the job: http://9e190129e9b4:8088/proxy/application_1630762621517_0014/
+2021-09-04 14:56:18,439 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - HadoopJobId: job_1630762621517_0014
+2021-09-04 14:56:18,439 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Processing aliases nameOrdered
+2021-09-04 14:56:18,439 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - detailed locations: M: nameOrdered[6,14] C:  R: 
+2021-09-04 14:56:37,675 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 87% complete
+2021-09-04 14:56:37,676 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0014]
+2021-09-04 14:56:45,704 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Running jobs are [job_1630762621517_0014]
+2021-09-04 14:56:48,719 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:48,738 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:48,930 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:48,948 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,007 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,021 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,072 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - 100% complete
+2021-09-04 14:56:49,124 [main] INFO  org.apache.pig.tools.pigstats.mapreduce.SimplePigStats - Script Statistics: 
+
+HadoopVersion	PigVersion	UserId	StartedAt	FinishedAt	Features
+3.3.1	0.17.0	root	2021-09-04 14:54:54	2021-09-04 14:56:49	GROUP_BY,ORDER_BY,RANK,FILTER
+
+Success!
+
+Job Stats (time in seconds):
+JobId	Maps	Reduces	MaxMapTime	MinMapTime	AvgMapTime	MedianMapTime	MaxReduceTime	MinReduceTime	AvgReduceTime	MedianReducetime	Alias	Feature	Outputs
+job_1630762621517_0011	1	0	4	4	4	4	0	0	0	0	inputDialouges	MAP_ONLY	
+job_1630762621517_0012	1	1	4	4	4	4	4	4	4	4	OnlyDialouges,groupByName,names	GROUP_BY,COMBINER	
+job_1630762621517_0013	1	1	5	5	5	5	5	5	5	5	nameOrdered	SAMPLER	
+job_1630762621517_0014	1	1	4	4	4	4	4	4	4	4	nameOrdered	ORDER_BY	hdfs:///user/root/inputs/IV_V_VI_dialogues_classification,
+
+Input(s):
+Successfully read 2596 records (162728 bytes) from: "hdfs:///user/root/inputs"
+
+Output(s):
+Successfully stored 224 records (3804 bytes) in: "hdfs:///user/root/inputs/IV_V_VI_dialogues_classification"
+
+Counters:
+Total records written : 224
+Total bytes written : 3804
+Spillable Memory Manager spill count : 0
+Total bags proactively spilled: 0
+Total records proactively spilled: 0
+
+Job DAG:
+job_1630762621517_0011	->	job_1630762621517_0012,
+job_1630762621517_0012	->	job_1630762621517_0013,
+job_1630762621517_0013	->	job_1630762621517_0014,
+job_1630762621517_0014
+
+
+2021-09-04 14:56:49,132 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,143 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,196 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,206 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,255 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,272 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,323 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,347 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,405 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,411 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,499 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,519 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,576 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,586 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,636 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,652 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,699 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,715 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,773 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,787 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,859 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,887 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:49,939 [main] INFO  org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider - Connecting to ResourceManager at /0.0.0.0:8032
+2021-09-04 14:56:49,955 [main] INFO  org.apache.hadoop.mapred.ClientServiceDelegate - Application state is completed. FinalApplicationStatus=SUCCEEDED. Redirecting to job history server
+2021-09-04 14:56:50,007 [main] WARN  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Encountered Warning ACCESSING_NON_EXISTENT_FIELD 6 time(s).
+2021-09-04 14:56:50,007 [main] INFO  org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher - Success!
+2021-09-04 14:56:50,060 [main] INFO  org.apache.pig.Main - Pig script completed in 1 minute, 59 seconds and 222 milliseconds (119222 ms)
+oot@9e190129e9b4: /root@9e190129e9b4:/# pig episodeIV_V_VI_dialouges.pigvim episodeIV_V_VI_dialouges.pig
+"episodeIV_V_VI_dialouges.pig" 7L, 475C�  cinputDialouges = Load 'hdfs:///user/root/inputs/' USING PigStorage('\t') AS (name: chararray, line: chararray);
+ranked = RANK inputDialouges;
+OnlyDialouges = FILTER ranked BY (rank_inputDialouges > 2);
+groupByName = GROUP OnlyDialouges BY name;
+names = FOREACH groupByName GENERATE $0 AS name, COUNT($1) AS no_of_lines;
+nameOrdered = ORDER names BY no_of_lines DESC;
+STORE nameOrdered INTO 'hdfs:///user/root/inputs/IV_V_VI_dialogues_classification' USING PigStorage ('\t');
+~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 ~                                                                                                                                                                                                                                 7,103Alli -- INSERT --7,103All^[  7,102All::q!
+oot@9e190129e9b4: /root@9e190129e9b4:/# hdfs dfs -cat / /user/root/inputs/IV_V_VI_dialogues_classification/part-r-o 00000
+LUKE	482
+HAN	439
+THREEPIO	296
+LEIA	223
+VADER	135
+BEN	102
+LANDO	96
+YODA	46
+RED LEADER	37
+EMPEROR	36
+BIGGS	35
+WEDGE	33
+TARKIN	29
+PIETT	29
+OWEN	26
+CREATURE	23
+TROOPER	20
+JABBA (in Huttese subtitled)	15
+GOLD LEADER	15
+OFFICER	14
+RIEEKAN	13
+COMMANDER	11
+JABBA	11
+ACKBAR	11
+BEN'S VOICE	11
+INTERCOM VOICE	9
+RED TEN	8
+GOLD FIVE	8
+DECK OFFICER	7
+FIRST TROOPER	7
+DEATH STAR INTERCOM VOICE	7
+VEERS	7
+AUNT BERU	7
+DODONNA	7
+GREEDO	7
+JERJERROD	6
+ZEV	6
+STORMTROOPER	5
+IMPERIAL OFFICER	5
+BIB	5
+HUMAN	5
+MOTTI	5
+NEEDA	5
+OZZEL	5
+TAGGE	5
+BOUSHH	5
+CONTROLLER	5
+NINEDENINE	5
+JANSON	4
+SECOND TROOPER	4
+BARTENDER	4
+BOBA FETT	4
+DACK	4
+MASSASSI INTERCOM VOICE	4
+VOICE	4
+CAPTAIN	3
+ANNOUNCER	3
+DERLIN	3
+FIXER	3
+GANTRY OFFICER	3
+HAN (cont)	3
+CHIEF	3
+CAMIE	3
+TRENCH OFFICER	3
+MAN'S VOICE	3
+REBEL PILOT	3
+SECOND OFFICER	3
+WILLARD	3
+GOLD TWO	3
+	2
+VOICE OVER DEATH STAR INTERCOM	2
+BOUSHH (in Ubese subtitled)	2
+CONTROLLER (over radio)	2
+COMMUNICATIONS OFFICER	2
+RED LEADER'S VOICE	2
+SENIOR CONTROLLER	2
+TRACKING OFFICER	2
+RED NINE'S VOICE	2
+WINGMAN'S VOICE	2
+SHUTTLE CAPTAIN	2
+RED TEN'S VOICE	2
+CONTROL OFFICER	2
+GENERAL MADINE	2
+TROOPER VOICE	2
+STRANGE VOICE	2
+REBEL OFFICER	2
+MEDICAL DROID	2
+FIRST OFFICER	2
+ASTRO-OFFICER	2
+OFFICER CASS	2
+LUKE'S VOICE	2
+HAN'S VOICE	2
+CHIEF PILOT	2
+ACKBAR (VO)	2
+TECHNICIAN	2
+RED ELEVEN	2
+MON MOTHMA	2
+LIEUTENANT	2
+BASE VOICE	2
+RED SEVEN	2
+SCOUT #1	2
+RED NINE	2
+WINGMAN	2
+PORKINS	2
+WOMAN	2
+PILOT	2
+GUARD	2
+DEAK	2
+BERU	2
+LEIA (to Han)	1
+LEIA (softly)	1
+HAN (to Luke)	1
+LUKE (concerned)	1
+HAN (gravely)	1
+LUKE (sarcastic)	1
+PILOT VOICE (HAN)(filtered)	1
+VADER (turning to face him)	1
+ACKBAR (cont)	1
+Y-WING PILOT	1
+VADER (bows)	1
+SECOND COMMANDER	1
+LUKE (turning away, derisive)	1
+VADER (indicating lightsaber)	1
+HAN and LUKE	1
+HAN (smiles)	1
+GREEN LEADER	1
+WOMAN CONTROLLER	1
+ASSISTANT OFFICER	1
+EMPEROR (to Luke)	1
+LUKE (cont)	1
+TAR WARS - EPISODE 5: THE EMPIRE STRIKES BACK	1
+HAN (sighs)	1
+HAN (grins)	1
+HAN (angry)	1
+GRAY LEADER	1
+MON MOTHMA (cont)	1
+BEN (continuing his narrative)	1
+PIETT (surprised)	1
+HAN (with self-confident grin)	1
+WEDGE (VO)	1
+VOICE (OS)	1
+JABBA (cont Huttese subtitled)	1
+SECOND CONTROLLER	1
+LUKE (indicating the one ahead)	1
+STORMTROOPER (OS)	1
+LUKE (pointing to the controls)	1
+NINEDENINE (to a Gamorrean guard)	1
+VADER (a whisper)	1
+VADER (skeptical)	1
+OOLA	1
+RED THREE	1
+LURE	1
+NAVIGATOR	1
+ANAKIN (very weak)	1
+EMPEROR (laughing)	1
+EMPEROR (to Vader)	1
+HAN (over comlink)	1
+JERJERROD (aghast)	1
+LANDO (to himself)	1
+EMPEROR (very cool)	1
+LANDO (desperately)	1
+SCOUT #l	1
+SCOUT #2	1
+YODA (gathering all his strength)	1
+DEATH STAR CONTROLLER(filtered VO)	1
+PILOT #2	1
+OPERATOR	1
+HAN (OS)	1
+LEIA (into comlink)	1
+LEIA (over comlink)	1
+BEN (OS)	1
+BEN (attempting to give solace with his words)	1
+LUKE (with sadness)	1
+THREEPIO (to Artoo)	1
+LANDO (into comlink)	1
+RED TWO	1
+LANDO (over comlink)	1
+BEN (grinning at Luke's indignation)	1
+PIETT (into comlink)	1
+THREEPIO (instantly)	1
+THREEPIO (to Wicket)	1
+VADER (after a beat)	1
+CONTROLLER (filtered)	1
+PILOTS	1
+EMPEROR (no surprise)	1
+HOBBIE	1
+HAN (turning to Luke)	1
+CONTROL ROOM COMMANDER	1
+HAN (loses his temper)	1
+ANAKIN	1
+YODA (shakes his head)	1
+HAN (to Leia)	1
+LUKE (shrugging it off)	1
+THREEPIO (disappearing)	1
+THREEPIO (cont)	1
+THREEPIO (still shaken)	1
+SECOND THREEPIO	1
+YODA (tickled, chuckles)	1
+RED LEADER (VO)	1
+LUKE (hesitant)	1
+LANDO (smiling)	1
+HEAD CONTROLLER	1
+HAN (sarcastic)	1
+EMPEROR (angry)	1
+HAN (looks at him warmly)	1
+WALKER PILOT #1	1
+BUNKER COMMANDER	1
+EMPEROR (laughs)	1
+LUKE (to Leia)	1
+LEIA (alarmed)	1
+FIRST CONTROLLER	1
+HAN/PILOT (VO)	1
+HAN (chuckles)	1
+HAN (blinking)	1
+SCOUT	1
+IMPERIAL SOLDIER	1
+EMPEROR (cont)	1
+TAR WARS - EPISODE 6: RETURN OF THE JEDI	1
+LUKE (moving to his ship)	1
+BIB (in Huttese subtitled)	1
+REBEL FIGHTER	1
+REBEL CAPTAIN	1
+HAN (whispering to himself)	1
+LUKE (groans)	1
+oot@9e190129e9b4: /root@9e190129e9b4:/# hdfs dfs -cat /user/root/inputs/IV_V_VI_dialogues_classification/part-r-00000            _SUCCESS
