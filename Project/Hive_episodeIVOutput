@@ -1,4 +1,4 @@
-root@bb56f1f5b4c4:~/shipra# hdfs dfs -cat /user/shipra_m4_project/outputs/episodeIVoutput/part-r-00000
+root@bb56f1f5b4c4:~/meenakshi# hdfs dfs -cat /user/meenakshi_m4_project/outputs/episodeIVoutput/part-r-00000
 LUKE    253
 HAN     152
 THREEPIO        119
@@ -66,4 +66,4 @@ MAN'S VOICE     1
 HAN'S VOICE     1
 LUKE'S VOICE    1
 CHIEF PILOT     1
-root@bb56f1f5b4c4:~/shipra#
+root@bb56f1f5b4c4:~/meenakshi#
